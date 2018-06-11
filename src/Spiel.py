@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 class Spielstand():
 
     def __init__(self):
