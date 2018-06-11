@@ -1,6 +1,3 @@
-Spieler = 0
-Computer = 0
-
 class Spielstand():
 
     def __init__(self):
